@@ -14,7 +14,7 @@ aldryn-apphooks-config==0.5.3
     # via
     #   -r requirements.in
     #   aldryn-newsblog
-aldryn-background-image @ https://divio-addons.s3-eu-central-1.amazonaws.com/aldryn-background-image/0.1.1/9e382593-2767-47af-82da-b586b1b0a8ea/aldryn-background-image-0.1.1.tar.gz
+aldryn-background-image==0.1.1
     # via -r requirements.in
 aldryn-boilerplates==0.8.0
     # via
@@ -22,7 +22,7 @@ aldryn-boilerplates==0.8.0
     #   aldryn-django-cms
     #   aldryn-newsblog
     #   aldryn-people
-aldryn-bootstrap3 @ https://divio-addons.s3-eu-central-1.amazonaws.com/aldryn-bootstrap3/1.3.0/17797539-30ca-46c3-ab5f-d84beafc4270/aldryn-bootstrap3-1.3.0.tar.gz
+aldryn-bootstrap3==1.3.0
     # via -r requirements.in
 aldryn-categories==1.2.0
     # via
@@ -36,11 +36,11 @@ aldryn-common==1.0.5
     # via
     #   aldryn-newsblog
     #   aldryn-people
-aldryn-django @ https://divio-addons.s3-eu-central-1.amazonaws.com/aldryn-django/1.11.28.1/3b24201e-8315-47eb-bf8d-aa6ae44277b5/aldryn-django-1.11.28.1.tar.gz
+aldryn-django==1.11.28.1
     # via -r requirements.in
 aldryn-django-cms @ https://divio-addons.s3-eu-central-1.amazonaws.com/aldryn-django-cms/3.5.3.4/1263fabd-aab8-4638-9d16-bd2e76d43b94/aldryn-django-cms-3.5.3.4.tar.gz
     # via -r requirements.in
-aldryn-newsblog @ https://divio-addons.s3-eu-central-1.amazonaws.com/aldryn-newsblog/2.2.1/7fd98d66-b4fb-42b8-b624-671c93642ca3/aldryn-newsblog-2.2.1.tar.gz
+aldryn-newsblog==2.2.1
     # via -r requirements.in
 aldryn-people==2.2.0
     # via
@@ -56,7 +56,7 @@ aldryn-snake==1.0.1
     #   aldryn-django-cms
 aldryn-sso @ https://divio-addons.s3-eu-central-1.amazonaws.com/aldryn-sso/1.6.0/6d90e844-d7ef-4faa-b527-5df3d49277be/aldryn-sso-1.6.0.tar.gz
     # via -r requirements.in
-aldryn-style @ https://divio-addons.s3-eu-central-1.amazonaws.com/aldryn-style/1.0.1/d5f209d4-6084-4e93-a538-e27b50e22b09/aldryn-style-1.0.1.tar.gz
+aldryn-style==1.0.1
     # via -r requirements.in
 aldryn-translation-tools==0.3.0
     # via
@@ -173,7 +173,7 @@ django-compressor==2.4
     # via
     #   -r requirements.in
     #   aldryn-django-cms
-django-filer @ https://divio-addons.s3-eu-central-1.amazonaws.com/django-filer/1.6.0/ea2f6055-3bc9-4bf7-a341-e1901ac15269/django-filer-1.6.0.tar.gz
+django-filer==1.6.0
     # via
     #   -r requirements.in
     #   aldryn-background-image
@@ -270,23 +270,23 @@ djangocms-attributes-field==1.2.0
     #   djangocms-link
     #   djangocms-picture
     #   djangocms-video
-djangocms-file @ https://divio-addons.s3-eu-central-1.amazonaws.com/djangocms-file/2.3.0/fad831bb-d011-4004-8500-e794eb601bf2/djangocms-file-2.3.0.tar.gz
+djangocms-file==2.3.0
     # via -r requirements.in
-djangocms-googlemap @ https://divio-addons.s3-eu-central-1.amazonaws.com/djangocms-googlemap/1.3.0/d2372d79-bcbc-40b5-bf8c-ad13df1a69da/djangocms-googlemap-1.3.0.tar.gz
+djangocms-googlemap==1.3.0
     # via -r requirements.in
-djangocms-link @ https://divio-addons.s3-eu-central-1.amazonaws.com/djangocms-link/2.5.0/e39a5d58-7801-40b0-945a-75a5ebd8e2cc/djangocms-link-2.5.0.tar.gz
+djangocms-link==2.5.0
     # via -r requirements.in
-djangocms-picture @ https://divio-addons.s3-eu-central-1.amazonaws.com/djangocms-picture/2.3.0/ffe73a4b-ae4d-4271-b572-ef31efe4e04d/djangocms-picture-2.3.0.tar.gz
+djangocms-picture==2.3.0
     # via -r requirements.in
-djangocms-snippet @ https://divio-addons.s3-eu-central-1.amazonaws.com/djangocms-snippet/2.2.0/7acefb85-0c19-4b6d-9b02-45ba5f9d3bfd/djangocms-snippet-2.2.0.tar.gz
+djangocms-snippet==2.2.0
     # via -r requirements.in
-djangocms-text-ckeditor @ https://divio-addons.s3-eu-central-1.amazonaws.com/djangocms-text-ckeditor/3.8.0/b89646ad-5f01-4762-aa29-52600645e6de/djangocms-text-ckeditor-3.8.0.tar.gz
+djangocms-text-ckeditor==3.8.0
     # via
     #   -r requirements.in
     #   aldryn-bootstrap3
     #   aldryn-newsblog
     #   aldryn-people
-djangocms-video @ https://divio-addons.s3-eu-central-1.amazonaws.com/djangocms-video/2.2.0/facb7d0e-0636-4b44-80e7-351b1faf58fc/djangocms-video-2.2.0.tar.gz
+djangocms-video==2.2.0
     # via -r requirements.in
 djeese-fs==0.1.21
     # via
